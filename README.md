@@ -5,7 +5,7 @@ Influenza is a highly contagious viral infection that is present in four types; 
 
 
 ## CONTRIBUTORS
-Jessica Wang, Julian Herrera
+Jasmine Wang, Julian Herrera
 ### WEEKLY GOALS/TIMELINE
 * Week 2: Form group
 
@@ -30,9 +30,7 @@ Jessica Wang, Julian Herrera
 ##### REFERENCES
 * World Health Organization
 * California Department of Public Health 
-###### H6
 
-Alternatively, for H1 and H2, an underline-ish style:
 
 Alt-H1
 ======
