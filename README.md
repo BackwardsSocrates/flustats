@@ -17,7 +17,7 @@ Jasmine Wang, Julian Herrera
 
 * Week 6: Work with SQL database & practice applying NLP techniques 
 
-* Week 7: Have "spread prediction" algorithm finalized
+* Week 7: Have "spread prediction" finalized
 
 * Week 8: Data visualization of results
 
