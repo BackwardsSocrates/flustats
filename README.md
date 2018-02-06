@@ -21,9 +21,9 @@ Jasmine Wang, Julian Herrera
 
 * Week 8: Data visualization of results
 
-* Week 9: Finish analysis
 
-* Week 10: Finish & clean up project
+
+
 
 
 
