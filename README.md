@@ -7,19 +7,17 @@ Influenza is a highly contagious viral infection that is present in four types; 
 ## CONTRIBUTORS
 Jasmine Wang, Julian Herrera
 ### WEEKLY GOALS/TIMELINE
+1ST QUARTER
 * Week 2: Form group
 
-* Week 3: Finalize project plan
+* Week 3-4: Finalize project plan
 
-* Week 4: Extract/Scrap data 
+* Week 4-7: Extract/Scrap data 
 
-* Week 5: Start collecting Public records data, put into SQL database
+* Week 8: Start collecting Public records data, put into SQL database
 
-* Week 6: Work with SQL database 
+* Week 9: Work with SQL database 
 
-* Week 7: Have "spread prediction" finalized
-
-* Week 8: Data visualization of results
 
 
 
