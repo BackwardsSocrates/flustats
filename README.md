@@ -15,7 +15,7 @@ Jasmine Wang, Julian Herrera
 
 * Week 5: Start collecting Public records data, put into SQL database
 
-* Week 6: Work with SQL database & practice applying NLP techniques 
+* Week 6: Work with SQL database 
 
 * Week 7: Have "spread prediction" finalized
 
