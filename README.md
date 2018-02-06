@@ -30,6 +30,6 @@ Jasmine Wang, Julian Herrera
 ##### REFERENCES
 * World Health Organization
 * California Department of Public Health 
-
+* Centers for Disease Control
 
 
